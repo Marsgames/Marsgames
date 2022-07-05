@@ -49,7 +49,7 @@ What I use almost every days:
 <p>
 <!--<a href="https://apple.com/">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40">
 <!--<a href="https://www.gnu.org/software/bash/">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40">
-<!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40">
+<!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40">
@@ -65,24 +65,24 @@ What I use almost every days:
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40">
-<!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40">
+<!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40">
 </p>
 
 What I have used / use sometimes:
 <p>
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40">
-<!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40">
+<!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android studio" alt="Android Studio" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" title="Atom" alt="Atom" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" title="BitBucket" alt="BitBucket" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40">
-<!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40">
+<!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" title="Confluence" alt="Confluence" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40">
-<!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook API" width="40" height="40">
+<!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" title="Facebook API" alt="Facebook API" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" title="FileZila" alt="FileZila" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40">
@@ -94,7 +94,7 @@ What I have used / use sometimes:
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40">
-<!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn API" width="40" height="40">
+<!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinedIn API" alt="LinkedIn API" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" title="Lua" alt="Lua" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40">
@@ -102,16 +102,16 @@ What I have used / use sometimes:
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" title="OpenGL" alt="OpenGL" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" title="QT" alt="QT" width="40" height="40">
-<!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R & RStudio" title="R & RStudio" width="40" height="40">
+<!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R & RStudio" alt="R & RStudio" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" title="SDL" alt="SDL" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" title="SourceTree" alt="SourceTree" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" title="SVN" alt="SVN" width="40" height="40">
-<!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter API" width="40" height="40">
-<!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40">
+<!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" title="Twitter API" alt="Twitter API" width="40" height="40">
+<!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" title="Vagrant" alt="Vagrant" width="40" height="40">
-<!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40">
+<!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" title="Xamarin" alt="Xamarin" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="40" height="40">
