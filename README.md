@@ -126,3 +126,5 @@ What I have used / use sometimes:
 ![](https://komarev.com/ghpvc/?username=Marsgames)
 
 <!-- ⚡ Fun fact: J'ai voulu faire 42, j'ai fais la piscine, j'ai beaucoup aidé, et eu une avancée et des notes raisonnables, pourtant je n'ai pas été pris dans l'école 🤔 -->
+
+*"Prenez la décision qui vous fera une bonne histoire à raconter."*
