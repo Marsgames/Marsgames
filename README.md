@@ -1,7 +1,8 @@
 # About me, Marsgames 👋
 Hey, I'm Raphael, a french video games developer.
 
-I'm currently working at [Headcrab](https://headcrab.fr), a video games studio.
+I'm currently working at [Headcrab](https://headcrab.fr) a video games studio.<br>
+I am also looking for new oportunities and challenges.
 
 My hobies are:
 - Video games & computer science
@@ -13,11 +14,15 @@ My hobies are:
 You can find on this git many of my public projects.<br>
 You can also find some other elements on my [Gist](https://gist.github.com/marsgames).
 
-One of my most popular project is [**Gearhelper**](https://github.com/Marsgames/GearHelper), a World of Warcraft addon created to help people to choice between the item they just looted and the one already equipped.
+One of my most popular project is [**Gearhelper**](https://github.com/Marsgames/GearHelper), a World of Warcraft addon created to help people making choice between the item they just looted and the one already equipped.
 
-You can also find my application [**Coming Soon**](https://apps.apple.com/fr/app/coming-soon/id1628414836), referencing upcoming elements (movies, series, musics...) on the App Store.
+You can also find my application [**Coming Soon**](https://apps.apple.com/fr/app/coming-soon/id1628414836), referencing upcoming events (movies, series, video games...) on the App Store.
 
-<!--I'm currently learning Machine Learning-->
+<!--
+🌱 I'm currently learning 🌱 
+- Machine Learning. I'm working on a Unity lib that will helps developers to test their *hypercasual games*
+- Some DevOps
+-->
 
 <!--
 **Marsgames/Marsgames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -119,3 +124,5 @@ What I have used / use sometimes:
 <br>
 
 ![](https://komarev.com/ghpvc/?username=Marsgames)
+
+<!-- ⚡ Fun fact: J'ai voulu faire 42, j'ai fais la piscine, j'ai beaucoup aidé, et eu une avancée et des notes raisonnables, pourtant je n'ai pas été pris dans l'école 🤔 -->
