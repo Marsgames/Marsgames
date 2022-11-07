@@ -41,10 +41,10 @@ Here are some ideas to get you started:
 
 # Misc
 You can find me on:
+- [Curriculum vitæ](https://github.com/Marsgames/Marsgames/blob/main/CV_RD_07_10_2022.pdf)
+- [Portfolio](https://raphdaumas.wixsite.com/portfolio)
 - [LinkedIn](https://fr.linkedin.com/in/rdaumas)
 - [YouTube](https://www.youtube.com/user/Marsgamess)
-- [Wix](https://raphdaumas.wixsite.com/portfolio)
-- [Curriculum vitæ](https://github.com/Marsgames/Marsgames/blob/main/CV_RD_07_10_2022.pdf)
 
 <br>
 
