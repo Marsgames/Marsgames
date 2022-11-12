@@ -9,6 +9,7 @@ My hobies are:
 - Motorbiking
 - Working on differents projects
 - Traveling
+- Learn new things
 
 # About my projects
 You can find on this git many of my public projects.<br>
