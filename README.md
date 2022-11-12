@@ -47,8 +47,22 @@ You can find me on:
 - [YouTube](https://www.youtube.com/user/Marsgamess)
 
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marsgames&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=400 src="https://streak-stats.demolab.com/?user=Marsgames&theme=monokai-metallian&hide_border=true" alt="Marsgames" />
+    </a>
+    <a href="https://github.com/Marsgames/github-readme-stats" title="Go to Source">
+      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=Marsgames&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=335 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marsgames&langs_count=8&layout=compact&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" />
+    </a>
+  </div>
+</p>
 
 <br>
 What I use almost every days:
