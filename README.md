@@ -54,6 +54,7 @@ Projects I worked on:
 - [GearHelper](https://www.curseforge.com/wow/addons/gearhelper) - Addon pour World of Warcraft
 - GT Manager [Website](https://tinydigitalfactory.com/gt-manager/) | [iOS](https://apps.apple.com/dz/app/gt-manager/id1537951774?l=fr) | [Android](https://play.google.com/store/apps/details?id=com.TDF.GTM&hl=fr&gl=US&pli=1) - Jeu mobile de gestion d'écurie GT
 - [Serious Game PFS VR](https://www.poleformation-sante.fr/actualites/etablissements-sante/chambre-des-erreurs-realite-virtuelle) - Serious Game en VR développé sous Unreal Engine pour former des aides-soignants
+- [WarLogs](https://www.curseforge.com/wow/addons/warlogs) World of Warcraft addon that shows WarcraftLogs.com logs in game
 
 <br>
 <p align=center>
