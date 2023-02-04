@@ -1,5 +1,5 @@
-# About me, Marsgames 👋
-Hey, I'm Raphael, a french video games developer.
+# Raphaël Daumas - Marsgames 👋
+Hey, I'm Raphaël, a french video games developer.
 
 I'm currently working at [Headcrab](https://headcrab.fr) a video games studio.<br>
 I am also looking for new oportunities and challenges.
