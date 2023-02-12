@@ -1,8 +1,9 @@
 # Raphaël Daumas - Marsgames 👋
 Hey, I'm Raphaël, a french video games developer.
 
-I'm currently working at [Headcrab](https://headcrab.fr) a video games studio.<br>
-I am also looking for new oportunities and challenges.
+I'm currently working at :
+- [Headcrab](https://headcrab.fr) a video games studio, as CEO and developer.
+- [Capgemini](https://www.capgemini.com) the #1 French IT company, as Software Engineer.
 
 My hobies are:
 - Video games & computer science
@@ -17,12 +18,14 @@ You can also find some other elements on my [Gist](https://gist.github.com/marsg
 
 One of my most popular project is [**Gearhelper**](https://github.com/Marsgames/GearHelper), a World of Warcraft addon created to help people making choice between the item they just looted and the one already equipped.
 
+My latest World of Warcraft addon [WarLogs](https://github.com/Marsgames/WarLogs) is a project allowing players to find in-game their personnal logs, and the logs of othere players. this project forced me to learn and work with AWS.
+
 You can also find my application [**Coming Soon**](https://apps.apple.com/fr/app/coming-soon/id1628414836), referencing upcoming events (movies, series, video games...) on the App Store.
 
 <!--
 🌱 I'm currently learning 🌱 
 - Machine Learning. I'm working on a Unity lib that will helps developers to test their *hypercasual games*
-- Some DevOps
+- Some DevOps (Grafana, Docker, Kubernetes, Vagrant, etc...)
 -->
 
 <!--
@@ -49,8 +52,9 @@ You can find me on:
 
 <br>
 
-Projects I worked on: 
-- [Coming Soon](https://apps.apple.com/fr/app/coming-soon/id1628414836) - Application répertoriant les sorties à venir
+Projects I work(ed) on: 
+- [Coming Soon](https://apps.apple.com/fr/app/coming-soon/id1628414836) - Application iOS répertoriant les sorties à venir
+- [Headcrab App](https://testflight.apple.com/join/vKDCeKk3) - Application iOS de démonstration des possibilités de développement de la société [Headcrab](https://www.headcrab.fr)
 - [GearHelper](https://www.curseforge.com/wow/addons/gearhelper) - World of Warcraft addon that helps player to decide which item should be equipped (300k+ downloads)
 - GT Manager [Website](https://tinydigitalfactory.com/gt-manager/) | [iOS](https://apps.apple.com/dz/app/gt-manager/id1537951774?l=fr) | [Android](https://play.google.com/store/apps/details?id=com.TDF.GTM&hl=fr&gl=US&pli=1) - Jeu mobile de gestion d'écurie GT
 - [Serious Game PFS VR](https://www.poleformation-sante.fr/actualites/etablissements-sante/chambre-des-erreurs-realite-virtuelle) - Serious Game en VR développé sous Unreal Engine pour former des aides-soignants
