@@ -18,7 +18,7 @@ You can also find some other elements on my [Gist](https://gist.github.com/marsg
 
 One of my most popular project is [**Gearhelper**](https://github.com/Marsgames/GearHelper), a World of Warcraft addon created to help people making choice between the item they just looted and the one already equipped.
 
-My latest World of Warcraft addon [WarLogs](https://github.com/Marsgames/WarLogs) is a project allowing players to find in-game their personnal logs, and the logs of othere players. this project forced me to learn and work with AWS.
+~My latest World of Warcraft addon [WarLogs](https://github.com/Marsgames/WarLogs) is a project allowing players to find in-game their personnal logs, and the logs of othere players. this project forced me to learn and work with AWS.~
 
 You can also find my application [**Coming Soon**](https://apps.apple.com/fr/app/coming-soon/id1628414836), referencing upcoming events (movies, series, video games...) on the App Store.
 
@@ -58,7 +58,7 @@ Projects I work(ed) on:
 - [GearHelper](https://www.curseforge.com/wow/addons/gearhelper) - World of Warcraft addon that helps player to decide which item should be equipped (300k+ downloads)
 - GT Manager [Website](https://tinydigitalfactory.com/gt-manager/) | [iOS](https://apps.apple.com/dz/app/gt-manager/id1537951774?l=fr) | [Android](https://play.google.com/store/apps/details?id=com.TDF.GTM&hl=fr&gl=US&pli=1) - Jeu mobile de gestion d'écurie GT
 - [Serious Game PFS VR](https://www.poleformation-sante.fr/actualites/etablissements-sante/chambre-des-erreurs-realite-virtuelle) - Serious Game en VR développé sous Unreal Engine pour former des aides-soignants
-- [WarLogs](https://www.curseforge.com/wow/addons/warlogs) World of Warcraft addon that shows WarcraftLogs.com logs in-game
+- ~[WarLogs](https://www.curseforge.com/wow/addons/warlogs) World of Warcraft addon that shows WarcraftLogs.com logs in-game~
 
 <br>
 <p align=center>
