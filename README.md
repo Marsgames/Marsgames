@@ -55,7 +55,7 @@ You can find me on:
 Projects I work(ed) on: 
 - [Coming Soon](https://apps.apple.com/fr/app/coming-soon/id1628414836) - Application iOS répertoriant les sorties à venir
 - [Headcrab App](https://testflight.apple.com/join/vKDCeKk3) - Application iOS de démonstration des possibilités de développement de la société [Headcrab](https://www.headcrab.fr)
-- [GearHelper](https://www.curseforge.com/wow/addons/gearhelper) - World of Warcraft addon that helps player to decide which item should be equipped (300k+ downloads)
+- [GearHelper](https://www.curseforge.com/wow/addons/gearhelper) - World of Warcraft addon that helps player to decide which item should be equipped (350k+ downloads)
 - GT Manager [Website](https://tinydigitalfactory.com/gt-manager/) | [iOS](https://apps.apple.com/dz/app/gt-manager/id1537951774?l=fr) | [Android](https://play.google.com/store/apps/details?id=com.TDF.GTM&hl=fr&gl=US&pli=1) - Jeu mobile de gestion d'écurie GT
 - [Serious Game PFS VR](https://www.poleformation-sante.fr/actualites/etablissements-sante/chambre-des-erreurs-realite-virtuelle) - Serious Game en VR développé sous Unreal Engine pour former des aides-soignants
 - ~[WarLogs](https://www.curseforge.com/wow/addons/warlogs) World of Warcraft addon that shows WarcraftLogs.com logs in-game~
