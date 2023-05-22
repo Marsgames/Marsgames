@@ -18,7 +18,7 @@ You can also find some other elements on my [Gist](https://gist.github.com/marsg
 
 One of my most popular project is [**Gearhelper**](https://github.com/Marsgames/GearHelper), a World of Warcraft addon created to help people making choice between the item they just looted and the one already equipped.
 
-~My latest World of Warcraft addon [WarLogs](https://github.com/Marsgames/WarLogs) is a project allowing players to find in-game their personnal logs, and the logs of othere players. this project forced me to learn and work with AWS.~
+~My latest World of Warcraft addon [WarLogs](https://github.com/Marsgames/WarLogs) is a project allowing players to find in-game their personnal logs, and the logs of othere players. this project makes me learn and work with AWS.~
 
 You can also find my application [**Coming Soon**](https://apps.apple.com/fr/app/coming-soon/id1628414836), referencing upcoming events (movies, series, video games...) on the App Store.
 
