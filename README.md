@@ -165,8 +165,7 @@ You can find me on:
 
 <br/>
  
-<br>
-What I use almost every days:
+### What I use almost every days:
 <p>
 <!--<a href="https://apple.com/">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40">
 <!--<a href="https://www.gnu.org/software/bash/">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40">
@@ -189,6 +188,8 @@ What I use almost every days:
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40">
 <!--<a href="">--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40">
 </p>
+
+<br/>
 
 What I have used / use occasionally:
 <p>
