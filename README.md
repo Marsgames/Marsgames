@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 
 # Misc
 You can find me on:
-- [Curriculum vitæ (FR)](https://github.com/Marsgames/Marsgames/blob/main/CV_RD_07_10_2022.pdf)
-- [Portfolio (FR / EN)](https://raphdaumas.wixsite.com/portfolio)
-- [LinkedIn (FR / EN)](https://fr.linkedin.com/in/rdaumas)
+- [Curriculum vitæ](https://github.com/Marsgames/Marsgames/blob/main/CV_RD_07_10_2022.pdf) (FR)
+- [Portfolio](https://raphdaumas.wixsite.com/portfolio) (FR / EN)
+- [LinkedIn](https://fr.linkedin.com/in/rdaumas) (FR / EN)
 - [YouTube](https://www.youtube.com/user/Marsgamess)
 
 <br>
@@ -58,8 +58,8 @@ Projects I work(ed) on:
 - [GearHelper](https://www.curseforge.com/wow/addons/gearhelper) - World of Warcraft addon that helps player to decide which item should be equipped (350k+ downloads)
 - GT Manager [Website](https://tinydigitalfactory.com/gt-manager/) | [iOS](https://apps.apple.com/dz/app/gt-manager/id1537951774?l=fr) | [Android](https://play.google.com/store/apps/details?id=com.TDF.GTM&hl=fr&gl=US&pli=1) - Jeu mobile de gestion d'écurie GT
 - [Serious Game PFS VR](https://www.poleformation-sante.fr/actualites/etablissements-sante/chambre-des-erreurs-realite-virtuelle) - Serious Game en VR développé sous Unreal Engine pour former des aides-soignants
-- ~[WarLogs](https://www.curseforge.com/wow/addons/warlogs) World of Warcraft addon that shows WarcraftLogs.com logs in-game~
-- [N-OC](https://www.navblue.aero/product/n-ops-and-crew/) Navblue Ops & Crew is an operations control & crew management solution for airline companies. Navblue is an Airbus company.
+- ~[WarLogs](https://www.curseforge.com/wow/addons/warlogs) - World of Warcraft addon that shows WarcraftLogs.com logs in-game~
+- [N-OC](https://www.navblue.aero/product/n-ops-and-crew/) - Navblue Ops & Crew is an operations control & crew management solution for airline companies. Navblue is an Airbus company.
 
 <br>
 <p align=center>
