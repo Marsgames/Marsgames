@@ -1,4 +1,6 @@
 # Raphaël Daumas - Marsgames 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&size=30&pause=1000&color=ADBAC7&vCenter=true&width=300&height=30&lines=Passionate;Neophile;Independant;Stress+resistant;Competent;Analytical;Curious;Insightful;Determined;Logical;Positive;Trustworthy;Loyal;Adaptable;Optimistic;Funny;Open+minded;Tenacious;Patient)](https://git.io/typing-svg)
+
 Hey, I'm Raphaël, a french a versatile developer.
 
 I'm currently working at :
