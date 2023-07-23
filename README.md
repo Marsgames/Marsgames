@@ -4,8 +4,7 @@
       <h1 style="display: inline-block;">
           Raphaël Daumas - Marsgames <!-- 👋 -->
         <br/>
-        <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Roboto&size=30&pause=1000&color=ADBAC7&center=true&vCenter=true&width=300&height=45&lines=Passionate;Neophile;Independant;Stress+resistant;Competent;Decider;Curious;Insightful;Determined;Logical;Positive;Trustworthy;Loyal;Adptable;Optimistic;Humorous;Open+minded;Tenacious;Patient;Versatile;" alt="Typing SVG" />
-        </a>
+        <img src="http://readme-typing-svg.herokuapp.com?font=Roboto&size=30&pause=1000&color=ADBAC7&center=true&vCenter=true&width=300&height=45&lines=Passionate;Neophile;Independant;Stress+resistant;Competent;Decider;Curious;Insightful;Determined;Logical;Positive;Trustworthy;Loyal;Adptable;Optimistic;Humorous;Open+minded;Tenacious;Patient;Versatile;" alt="Typing SVG" />
         
 <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
       </h1>
