@@ -31,6 +31,7 @@ When I'm not working, I like:
 - 🎮 Playing Video games
 - 🏍️ Motorbiking
 - 💻 Working on differents projects
+- 🍔 Eating burgers
 - ✈️ Traveling
 - 🧑‍🎓 Learning new things
 - 🏂 Snowboarding
