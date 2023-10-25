@@ -60,7 +60,7 @@ Among the projects I worked on, you can find
 - [Headcrab App](https://testflight.apple.com/join/vKDCeKk3) - iOS application demonstrating the development capabilities of the [Headcrab](https://www.headcrab.fr) company
 - [GearHelper](https://www.curseforge.com/wow/addons/gearhelper) - World of Warcraft addon that helps player to decide which item should be equipped (350k+ downloads)
 - GT Manager [Website](https://tinydigitalfactory.com/gt-manager/) | [iOS](https://apps.apple.com/dz/app/gt-manager/id1537951774?l=fr) | [Android](https://play.google.com/store/apps/details?id=com.TDF.GTM&hl=fr&gl=US&pli=1) - Mobile video game about managing a GT car team.
-- [Serious Game PFS VR](https://www.poleformation-sante.fr/actualites/etablissements-sante/chambre-des-erreurs-realite-virtuelle) - VR Serious Game developed under Unreal Engine to train nurses (developed during Covid-19 pandemic)
+- [Serious Game PFS VR](https://www.poleformation-sante.fr/chambre-des-erreurs-realite-virtuelle/) - VR Serious Game developed under Unreal Engine to train nurses (developed during Covid-19 pandemic)
 - ~[WarLogs](https://www.curseforge.com/wow/addons/warlogs) - World of Warcraft addon that shows WarcraftLogs.com logs in-game~
 - [N-OC](https://www.navblue.aero/product/n-ops-and-crew/) - Navblue Ops & Crew is an operations control & crew management solution for airline companies developed by Navblue, an Airbus company.
 
