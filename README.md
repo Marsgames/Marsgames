@@ -48,7 +48,7 @@ When I'm not working, I like:
 # 🧑‍💻 About my projects
 You can find on this git many of my public projects, such as<br>
 - [**Gearhelper**](https://github.com/Marsgames/GearHelper), one of my most popular project, a World of Warcraft addon created to help people making choice between the item they just looted and the one already equipped.
-- ~[WarLogs](https://github.com/Marsgames/WarLogs), my latest World of Warcraft addon. It is a project allowing players to find in-game their personnal logs (player stats about killing some bosses), and the logs of othere players. this project makes me learn and work with AWS.~
+- [WarLogs](https://github.com/Marsgames/WarLogs), my latest World of Warcraft addon. It is a project allowing players to find in-game their personnal logs (player stats about killing some bosses), and the logs of othere players. this project makes me learn and work with AWS.
 
 You can also find some other elements on my [Gist](https://gist.github.com/marsgames).
 
@@ -61,7 +61,7 @@ Among the projects I worked on, you can find
 - [GearHelper](https://www.curseforge.com/wow/addons/gearhelper) - World of Warcraft addon that helps player to decide which item should be equipped (350k+ downloads)
 - GT Manager [Website](https://tinydigitalfactory.com/gt-manager/) | [iOS](https://apps.apple.com/dz/app/gt-manager/id1537951774?l=fr) | [Android](https://play.google.com/store/apps/details?id=com.TDF.GTM&hl=fr&gl=US&pli=1) - Mobile video game about managing a GT car team.
 - [Serious Game PFS VR](https://www.poleformation-sante.fr/chambre-des-erreurs-realite-virtuelle/) - VR Serious Game developed under Unreal Engine to train nurses (developed during Covid-19 pandemic)
-- ~[WarLogs](https://www.curseforge.com/wow/addons/warlogs) - World of Warcraft addon that shows WarcraftLogs.com logs in-game~
+- [WarLogs](https://www.curseforge.com/wow/addons/warlogs) - World of Warcraft addon that shows WarcraftLogs.com logs in-game
 - [N-OC](https://www.navblue.aero/product/n-ops-and-crew/) - Navblue Ops & Crew is an operations control & crew management solution for airline companies developed by Navblue, an Airbus company.
 
 <br/>
