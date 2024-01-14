@@ -97,6 +97,7 @@ You can find me on:
 - [Portfolio](https://raphdaumas.wixsite.com/portfolio) (FR / EN)
 - [LinkedIn](https://fr.linkedin.com/in/rdaumas) (FR / EN)
 - [YouTube](https://www.youtube.com/user/Marsgamess)
+- [Discord](http://discordapp.com/users/228593357092421642)
 
 <br/>
 
