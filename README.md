@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 
 # 🔗 Links
 You can find me on:
-- [Curriculum vitæ](https://github.com/Marsgames/Marsgames/blob/main/CV_RD_07_10_2022.pdf) (FR)
+- [Curriculum vitæ](https://github.com/Marsgames/Marsgames/blob/main/CV_RD_01_04_2024.pdf) (FR)
 - [Portfolio](https://raphdaumas.wixsite.com/portfolio) (FR / EN)
 - [LinkedIn](https://fr.linkedin.com/in/rdaumas) (FR / EN)
 - [YouTube](https://www.youtube.com/user/Marsgamess)
