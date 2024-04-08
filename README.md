@@ -48,7 +48,7 @@ When I'm not working, I like:
 # 🧑‍💻 About my projects
 You can find on this git many of my public projects, such as<br>
 - [**Gearhelper**](https://github.com/Marsgames/GearHelper), one of my most popular project, a World of Warcraft addon created to help people making choice between the item they just looted and the one already equipped.
-- [WarLogs](https://github.com/Marsgames/WarLogs), my latest World of Warcraft addon. It is a project allowing players to find in-game their personnal logs (player stats about killing some bosses), and the logs of othere players. this project makes me learn and work with AWS.
+- [RaidLogs](https://github.com/Marsgames/RaidLogs), my latest World of Warcraft addon. It is a project allowing players to find in-game their personnal logs (player stats about killing some bosses), and the logs of othere players. this project makes me learn and work with AWS.
 
 You can also find some other elements on my [Gist](https://gist.github.com/marsgames).
 
